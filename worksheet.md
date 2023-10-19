@@ -77,11 +77,11 @@ Yes, we can convert it but it wouldn't be absoluetly accurate because we will ne
 
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
-
+The answer we ger is 0.000000 and that is wrong.
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
-
+I'm still getting it wrong 
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
