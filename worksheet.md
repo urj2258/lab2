@@ -57,11 +57,11 @@ error
 the exchange amounts for the following inputs:
 
   a) $250.25
-
+     £205.65
   b) $1,000.52
-
+     £822.19
   c) $968,410.12
-
+     £795805.54
 
 
 6. Suppose that you had used only `int` types
