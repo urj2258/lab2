@@ -69,7 +69,7 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
-
+Yes, we can convert it but it wouldn't be absoluetly accurate because we will need some numbers in decimal point too which is a convineance provided by the int data type.
 
 
 
