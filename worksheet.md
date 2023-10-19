@@ -49,7 +49,7 @@ error
   size: 4 bytes  
   range: 7 digits of accuracy
 * `double`
-  size: 4 bytes 
+  size: 4 bytes
   range: 15 digits of accuracy
 
 
