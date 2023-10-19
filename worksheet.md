@@ -12,14 +12,14 @@ how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
 
-
+error
 
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
 
 
-
+error
 
 3. Software testing often involves testing code with known
 "bad" input in an attempt to break it (sometimes this is
@@ -28,7 +28,7 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
 
-
+error
 
 
 4. Complete all the size and range entries below.
@@ -37,19 +37,19 @@ results you observe.
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size:2 byte
+  range:-32,768 to 32,767
 * `int`
-  size:
-  range:
+  size:4 byte
+  range:-2,147,483,648 to 2,147,483,647
 * `long int`
-  size:
-  range:
+  size:8 bytes 
+  range:-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 * `float`
-  size:
+  size: 4 bytes  
   range: 7 digits of accuracy
 * `double`
-  size:
+  size: 4 bytes 
   range: 15 digits of accuracy
 
 
